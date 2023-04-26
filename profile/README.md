@@ -1,4 +1,4 @@
-<p style="text-align: center"><a href="https://github.com/BouldAR-Warwick"><img alt="BouldAR Logo" src="https://github.com/BouldAR-Warwick/bouldar-assets/raw/main/logo_purple.png" width="512"/></a></p>
+<p style="text-align: center"><a href="https://github.com/BouldAR-Warwick"><img alt="BouldAR Logo" src="https://github.com/BouldAR-Warwick/assets/raw/main/logo_purple.png" width="512"/></a></p>
 
 <p style="text-align: center">
 Generate graded routes for your generic problem board
